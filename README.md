@@ -10,7 +10,7 @@ Euronews est une application web qui permet d'afficher et de filtrer des article
 
 ***
 📂 Structure du projet<br/>
-![2025-02-24_23h40_15](https://github.com/user-attachments/assets/fb1bd0d4-c770-45bb-bc6a-aa2edea85525)
+![2025-02-24_23h40_15](https://github.com/user-attachments/assets/ef622346-ccc9-4060-8c88-64a38a44a339)
 
 
 ***

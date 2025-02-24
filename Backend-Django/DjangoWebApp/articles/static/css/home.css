@@ -1,0 +1,55 @@
+/* add.css */
+
+/* Style général du body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 0;
+    /* display: flex; */
+    justify-content: column;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+}
+
+/* Style du titre */
+h1 {
+    color: #333;
+    margin-bottom: 40px;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+/* Style des boutons */
+button {
+    background-color: #007bff; /* Bleu classique */
+    color: white;
+    border: none;
+    padding: 12px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin: 10px 20px;
+    cursor: pointer;
+    border-radius: 8px;
+    transition: background-color 0.3s, transform 0.2s;
+}
+
+/* Effet de survol des boutons */
+button:hover {
+    background-color: #0056b3; /* Bleu plus foncé */
+    transform: scale(1.05); /* Légère animation de zoom */
+}
+
+/* Effet de focus pour l'accessibilité */
+button:focus {
+    outline: none;
+    box-shadow: 0 0 10px rgba(0, 123, 255, 0.6); /* Bordure bleue */
+}
+
+/* Ajout d'un léger padding autour du corps de la page */
+body {
+    padding: 20px;
+}
